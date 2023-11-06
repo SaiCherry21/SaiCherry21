@@ -1,3 +1,31 @@
+# Anandapu Sai Charan
+
+## Contact Information
+
+- Email: saicharana21@gmail.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
+## About Me
+
+I'm a passionate software developer with a love for open source projects. I enjoy learning new technologies and building cool stuff.
+
+## Skills
+
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React
+- ...
+
+## Projects
+
+- [Project 1](link-to-project-1): A brief description of Project 1.
+- [Project 2](link-to-project-2): A brief description of Project 2.
+- ...
+
+
+
+
+
 - 👋 Hi, I’m @SaiCherry21
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security professional
