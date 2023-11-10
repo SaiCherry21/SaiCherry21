@@ -8,12 +8,12 @@
 
 ## About Me
 
-I'm a passionate software developer with a love for open source projects. I enjoy learning new technologies and building cool stuff.
+I enjoy learning new technologies and building cool stuff.
 
 ## Skills
 
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React
+- Programming Languages: Python,
+- Web Development: HTML, CSS.
 - ...
 
 ## Projects
