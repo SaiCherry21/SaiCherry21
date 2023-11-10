@@ -15,6 +15,30 @@ I enjoy learning new technologies and building cool stuff.
 - Programming Languages: Python,
 - Web Development: HTML, CSS.
 - ...
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Button Generator</title>
+	<style>
+		button {
+			color: #ffffff;
+			background-color: #2d63c8;
+			font-size: 19px;
+			border: 1px solid #2d63c8;
+			border-radius: 25px;
+			padding: 15px 50px;
+			cursor: pointer
+		}
+		button:hover {
+			color: #2d63c8;
+			background-color: #ffffff;
+		}
+	</style>
+</head>
+<body>
+	<button type="button" name="myButton">Button</button>
+</body>
+</html>
 
 ## Projects
 
