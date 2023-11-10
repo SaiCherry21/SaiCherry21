@@ -3,7 +3,7 @@
 ## Contact Information
 
 - Email: saicharana21@gmail.com
-- LinkedIn: [www.linkedin.com/in/anandapu-saicharan](www.linkedin.com/in/anandapu-saicharan)
+- LinkedIn: [anandapu-saicharan](https://www.linkedin.com/in/anandapu-saicharan)
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ## About Me
