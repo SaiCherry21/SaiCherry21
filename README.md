@@ -15,7 +15,7 @@ I enjoy learning new technologies and building cool stuff.
 - Programming Languages: Python,
 - Web Development: HTML, CSS.
 - ...
-<!DOCTYPE html>
+- (<!DOCTYPE html>
 <html>
 <head>
 	<title>HTML Button Generator</title>
@@ -39,7 +39,7 @@ I enjoy learning new technologies and building cool stuff.
 	<button type="button" name="myButton">Button</button>
 </body>
 </html>
-
+)
 ## Projects
 
 - [Project 1](link-to-project-1): A brief description of Project 1.
