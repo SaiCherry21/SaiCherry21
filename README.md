@@ -4,7 +4,6 @@
 
 - Email: saicharana21@gmail.com
 - LinkedIn: [Anandapu Sai Charan](https://www.linkedin.com/in/anandapu-saicharan-660981191?original_referer=)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ## About Me
 
@@ -17,7 +16,7 @@ I enjoy learning new technologies and building cool stuff.
 - ...
 ## Projects
 
-- [Project 1](link-to-project-1): A brief description of Project 1.
+- [Project 1](https://github.com/SaiCherry21/AWS_S3-RDS_automation..git): Creating a process which automate the text formate to csv formate
 - [Project 2](link-to-project-2): A brief description of Project 2.
 - ...
 
