@@ -18,6 +18,8 @@ I enjoy learning new technologies and building cool stuff.
 
 - [Project 1](https://github.com/SaiCherry21/AWS_S3-RDS_automation..git): Creating a process which automate the text formate to csv formate
 - [Project 2](https://github.com/SaiCherry21/AWS_RDS_configuration.git): Create a MySQL instance using RDS and access it using a custom program from an EC2 instance using an appropriate role
+- [Project 3](https://github.com/SaiCherry21/AWS_S3-RDS_automation..git): Create an Autoscaling group using Terraform on AWS. The instances in the group haveing Nginx installed on them. Parameters in the ASG can be set at your discretion and should be mentioned in the solution documentation.
+
 - ...
 
 
