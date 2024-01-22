@@ -1,7 +1,7 @@
 # Anandapu Sai Charan
 
 ## Contact Information
-
+📫 How to reach me ...
 - Email: saicharana21@gmail.com
 - LinkedIn: [Anandapu Sai Charan](https://www.linkedin.com/in/anandapu-saicharan-660981191?original_referer=)
 
@@ -11,8 +11,12 @@ I enjoy learning new technologies and building cool stuff.
 
 ## Skills
 
-- Programming Languages: Python,
-- Web Development: HTML, CSS.
+-AWS: IAM, S3, EC2, VPC, Athena and redshift.
+- SERVERLESS COMPUTING: Lambda, SQS, SNS, and API Gateway,
+- Infrastructure as code: Terraform.
+- DATABASE: DynamoDB and RDS.
+- DEVOPS TOOLS: GIT, Ansible, Jenkins and Docker
+- Programming Languages: Python(Basics), HTML & CSS and SQL.
 - ...
 ## Projects
 
@@ -22,15 +26,6 @@ I enjoy learning new technologies and building cool stuff.
 
 - ...
 
-
-
-
-
-- 👋 Hi, I’m @SaiCherry21
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cyber security professional
-- 💞️ I’m looking to collaborate on cyber security
-- 📫 How to reach me ...
 
 <!---
 SaiCherry21/SaiCherry21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
